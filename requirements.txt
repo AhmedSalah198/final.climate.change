@@ -1,0 +1,5 @@
+numpy==1.25.0
+pandas>=1.5.0
+plotly
+plotly.express
+datetime,requests
