@@ -117,9 +117,7 @@ st.image("11 (1).png")
 
 st.markdown("-----")
 st.markdown("<h1 style='text-align: center; font-size: 30px;'>02- OBJECTIVES</h1>", unsafe_allow_html=True)
-
 image = st.image("22.jpg")
-
 st.write("1 -TO COLLECT AND CLEAN THE HUGE WEATHER DATA FROM (1749-2013)")
 st.write(" 2 - TO EXPLORE AND ANALYZE THE DATA ")
 st.write("3  - TO PREDICT FUTURE CLIMATE PATTERN")
