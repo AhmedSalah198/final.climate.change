@@ -182,11 +182,7 @@ st.write(" - lets study 1975 much more ")
 st.write(" - what is the AverageTemperature in egypt ? ")
 st.write(" - what is the hotest mounth in egypt ? ")
 st.write(" - what is the future climate will be like ? ")
-st.write(" - what is the future climate will be like ? ")
-st.write(" - what is the future climate will be like ? ")
-st.write(" - what is the future climate will be like ? ")
-st.write(" - what is the future climate will be like ? ")
-st.write(" - what is the future climate will be like ? ")
+
 
 
 
