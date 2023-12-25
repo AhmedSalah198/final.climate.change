@@ -26,7 +26,7 @@ st.write("<h1 style='text-align: center; font-size: 20px;'> It's Me Again Ahmed 
 st.markdown('----')
 #Display the Page Title
 Page_Title= st.markdown("<h1 style='text-align: center; font-size: 45px;'>Climate Change - Global Warming</h1>", unsafe_allow_html=True)
-Page_Title= st.markdown("<h1 style='text-align: center; font-size: 45px;'>(THERE'S NO PLANT B)</h1>", unsafe_allow_html=True)
+Page_Title= st.markdown("<h1 style='text-align: center; font-size: 45px;'>( THERE'S NO PLANET B )</h1>", unsafe_allow_html=True)
 
 
 #Display the Page Subtitle
@@ -48,7 +48,7 @@ st.markdown("<h1 style='text-align: center; font-size: 30px;'>Content</h1>", uns
 st.write("1- introdution")
 st.write("2- Objectives")
 st.write("3- data set")
-st.write("4- data wrangling")
+st.write("4- data handling")
 st.write("5- Exploratory data analysis") 
 st.write("8- what will future climate be like")
 st.write("7- conclusion")
