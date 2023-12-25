@@ -37,7 +37,7 @@ st.markdown('----')
 
 # Load the image
 image = st.image("Screenshot_1.png")
-image = st.image("11.jpeg")
+image = st.image("11.jpg")
 
 st.markdown('----')
 
