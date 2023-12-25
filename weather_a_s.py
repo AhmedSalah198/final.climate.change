@@ -359,9 +359,11 @@ st.image("474.png")
 st.write("- Therefore, in 2015, the Cop21 Climate Conference was held, if they set a condition that we limit the global temperature rise to 1.5 degree Celsius.") 
 st.image("74.jpg")
 
-st.write("- But something happened that was not desirable to happen, and the temperature is now increasing by 2 degree annually, and this is") 
+st.write("- But something happened that was not desirable to happen, and the temperature is now increasing by 2 degree annually") 
 st.image("44 (4).png")
 
+st.write("-And that what was duscused in cop28 in dubai 2023 this year it was just only to keeb the 2 degree not to set limit to 1.5") 
+st.image("666.jpg")
 
 st.write("- But i ahmed salah think there is no hope  ") 
 st.image("777.jpg")
