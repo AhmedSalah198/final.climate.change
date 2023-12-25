@@ -26,8 +26,6 @@ st.write("<h1 style='text-align: center; font-size: 20px;'> It's Me Again Ahmed 
 
 
 
-st.markdown("<h1 style='text-align: center ; font-size: 30px;'>08 -  Weather App Forecast</h1>", unsafe_allow_html=True)    
-
 st.write("<h1 style='text-align: center; font-size: 20px;'> AND BEFORE YOU START READING I'd Like You To put your City In This Box, And Answer A Very Important Question  </h1>", unsafe_allow_html=True)
 st.write("<h1 style='text-align: center; font-size: 30px;'>(What Is The Weather Like Tomorrow 🤔)</h1>", unsafe_allow_html=True)
 
@@ -540,10 +538,7 @@ st.markdown("-----")
 
 
 #-----------------------------------------------
-st.markdown("<h1 style='text-align: center ; font-size: 30px;'>08 -  Weather App Forecast</h1>", unsafe_allow_html=True)    
 
-st.write("<h1 style='text-align: center; font-size: 20px;'> I'd Like You To Try My Weather App ☁️, Please put your City In This Box, And Answer A Very Important Question  </h1>", unsafe_allow_html=True)
-st.write("<h1 style='text-align: center; font-size: 30px;'>(What Is The Weather Like Tomorrow 🤔)</h1>", unsafe_allow_html=True)
 
 #st.markdown("<h1 style='text-align: center; font-size: 45px;'>LIVE WEATHER FORECAST 🌧️🌥️ </h1>", unsafe_allow_html=True)
 city=st.text_input("ENTER THE NAME OF THE CITY ")
