@@ -5,7 +5,7 @@ import datetime,requests
 import plotly.express as px
 from plotly import graph_objects as go
 
-st.set_page_config(page_title='AHMED SALAH WEATHER', page_icon="☀️")
+#st.set_page_config(page_title='AHMED SALAH WEATHER', page_icon="☀️")
 #st.markdown("<h1 style='text-align: center; font-size: 45px;'>full project video </h1>", unsafe_allow_html=True)
 
 #Video
