@@ -20,13 +20,13 @@ st.set_page_config(page_title='AHMED SALAH WEATHER', page_icon="☀️")
 
 
 #Disply Introduction Data
-st.write("<h1 style='text-align: center; font-size: 20px;'>Hi EPSILON 💖</h1>", unsafe_allow_html=True)
-st.write("<h1 style='text-align: center; font-size: 20px;'> It's Me Again Ahmed Salah, First I'd Like To Thank Eng/Ahmed Moustafa 🧑‍🏫 For Being Such A Good Teacher And Brother For All Of Us 💞.And I'd Like To Thank Ebsilon It For The Great Dibloma And It Was A Great 12 Months With You </h1>", unsafe_allow_html=True)
+st.write("<h1 style='text-align: center; font-size: 20px;'>Hi EPSILON </h1>", unsafe_allow_html=True)
+st.write("<h1 style='text-align: center; font-size: 20px;'> It's Me Again Ahmed Salah, First I'd Like To Thank Eng/Ahmed Moustafa For Being Such A Good Teacher And Brother For All Of Us .And I'd Like To Thank Ebsilon It For The Great Dibloma And It Was A Great 12 Months With You </h1>", unsafe_allow_html=True)
 #--------------------------------------------------
 
 st.markdown('----')
 st.write("<h1 style='text-align: center; font-size: 20px;'> AND BEFORE YOU START READING I'd Like You To put your City In This Box, And Answer A Very Important Question  </h1>", unsafe_allow_html=True)
-st.write("<h1 style='text-align: center; font-size: 30px;'>(What Is The Weather Like Tomorrow 🤔)</h1>", unsafe_allow_html=True)
+st.write("<h1 style='text-align: center; font-size: 30px;'>(What Is The Weather Like Tomorrow )</h1>", unsafe_allow_html=True)
 st.markdown("<h1 style='text-align: center; font-size: 45px;'>LIVE WEATHER FORECAST 🌧️🌥️ </h1>", unsafe_allow_html=True)
 city=st.text_input("ENTER THE NAME OF THE CITY ")
 
