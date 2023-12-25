@@ -540,7 +540,7 @@ st.markdown("-----")
 #-----------------------------------------------
 
 
-#st.markdown("<h1 style='text-align: center; font-size: 45px;'>LIVE WEATHER FORECAST 🌧️🌥️ </h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; font-size: 45px;'>LIVE WEATHER FORECAST 🌧️🌥️ </h1>", unsafe_allow_html=True)
 city=st.text_input("ENTER THE NAME OF THE CITY ")
 
 unit=st.selectbox("SELECT TEMPERATURE UNIT ",["Celsius","Fahrenheit"])
