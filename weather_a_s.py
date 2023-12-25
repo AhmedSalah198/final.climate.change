@@ -7,15 +7,7 @@ from plotly import graph_objects as go
 
 import streamlit as st
 
-st.set_page_config(
-    page_title="Ex-stream-ly Cool App",
-    page_icon="🧊",
-    layout="wide",
-    initial_sidebar_state="expanded",
-    menu_items={
-        'Get Help': 'https://www.facebook.com/ahmed.salah.khalil.98/',
-        'Report a bug': "ahmed.newtron@gmmail.com",
-        'About': "# This is a header. This is an *extremely* cool app!"})
+st.set_page_config(page_title="Ex-stream-ly Cool App",page_icon="🧊",layout="wide",initial_sidebar_state="expanded", menu_items={'Get Help': 'https://www.facebook.com/ahmed.salah.khalil.98/','Report a bug': "ahmed.newtron@gmmail.com",'About': "# This is a header. This is an *extremely* cool app!"})
 
 #st.set_page_config(page_title='AHMED SALAH WEATHER', page_icon="☀️")
 #st.markdown("<h1 style='text-align: center; font-size: 45px;'>full project video </h1>", unsafe_allow_html=True)
