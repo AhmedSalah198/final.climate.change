@@ -373,7 +373,7 @@ st.image("74.png")
 
 
 st.write("- And also as i said before Nuclear reaction experiments must be stopped ") 
-st.image("11.jpg")
+#st.image("11.jpg")
 
 st.markdown("-----")
 
