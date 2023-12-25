@@ -26,7 +26,7 @@ st.write("<h1 style='text-align: center; font-size: 20px;'> It's Me Again Ahmed 
 st.markdown('----')
 #Display the Page Title
 Page_Title= st.markdown("<h1 style='text-align: center; font-size: 45px;'>Climate Change - Global Warming</h1>", unsafe_allow_html=True)
-Page_Title= st.markdown("<h1 style='text-align: center; font-size: 45px;'>THERE'S NO PLANT B</h1>", unsafe_allow_html=True)
+Page_Title= st.markdown("<h1 style='text-align: center; font-size: 45px;'>(THERE'S NO PLANT B)</h1>", unsafe_allow_html=True)
 
 
 #Display the Page Subtitle
