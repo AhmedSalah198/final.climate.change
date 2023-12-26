@@ -452,7 +452,7 @@ elif question == "lets study 1975 much more":
     st.write("- Land Average Temperature - an increase from 8.37 degrees to 9.20; almost 1 full grade")
     st.write("- Land Maximum Temperature - an increase from 14.18 degrees to 14.89; 0.71 grades increase")
     st.write("- Land Minimum Temperatures - an increase from 2.45 degrees to 3.64; 1.19 grades increase")
-    st.write("-  Why is the (Cold Weather) getting hotter more rapidly than the (Hot Weather) ?")
+    st.write("- The (Cold Weather) getting hotter more rapidly than the (Hot Weather) ")
     
 
 
