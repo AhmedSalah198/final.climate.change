@@ -445,6 +445,9 @@ elif question == "Why 1975 exactly?":
     
 elif question == "lets study 1975 much more":
     st.image("8.png")
+    st.image("444444.png")
+
+    
     st.write("- I feel like 1975 was a (no turning back) point, so I chose this moment to compare temperatures before and after.")
     st.write("- Land Average Temperature - an increase from 8.37 degrees to 9.20; almost 1 full grade")
     st.write("- Land Maximum Temperature - an increase from 14.18 degrees to 14.89; 0.71 grades increase")
