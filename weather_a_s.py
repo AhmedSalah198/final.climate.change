@@ -514,7 +514,7 @@ st.markdown("-----")
 
 st.markdown("<h1 style='text-align: center ; font-size: 30px;'>06 - Conclusion</h1>", unsafe_allow_html=True)    
 
-st.write("- After the industrial revolution in 1750, the planet Earth experienced a continuous rise in temperatures, But when the world began to notice rising temperatures, it was too late")    
+st.write("- After the industrial revolution in 1975, the planet Earth experienced a continuous rise in temperatures, But when the world began to notice rising temperatures, it was too late")    
 st.image("474.png")
 st.image("5555.png")
 
