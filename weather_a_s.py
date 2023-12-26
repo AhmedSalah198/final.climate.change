@@ -562,8 +562,6 @@ st.write("- https://www.straitstimes.com/asia/se-asia/malaysia-firms-plunder-sun
 st.write("- https://edition.cnn.com/2019/10/25/weather/medicane-mediterranean-storm-egypt-israel-wxc/index.html")  
 st.write("- https://edition.cnn.com/2015/12/12/world/global-climate-change-conference-vote/")  
 st.write("- https://books.openedition.org/irdeditions/23454?lang=en")  
-st.write("- https://www.youtube.com/watch?v=4EiVHlsQNF4&t=7s&ab_channel=NewMediaAcademyLife") 
-
 st.write("- https://climate.nasa.gov/faq/16/is-it-too-late-to-prevent-climate-change/")  
 
 st.markdown("-----")
