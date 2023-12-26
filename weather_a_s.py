@@ -497,7 +497,7 @@ st.markdown("<h1 style='text-align: center ; font-size: 30px;'>07 - But what rea
 st.write("Predicting the future climate is a complex task, as it's influenced by numerous factors and uncertainties. However, based on current scientific understanding and climate models, here's a glimpse into what the future climate might hold: ")
 st.image("7.png")
 
-st.write("Temperature rise: The Earth's average temperature is projected to rise by 1.5°C to 4°C by 2100, depending on our mitigation efforts. This warming will be unevenly distributed, with some regions experiencing significantly higher increases than others. ")
+st.write("Temperature rise: The Earth's average temperature is projected to rise depending on our mitigation efforts. This warming will be unevenly distributed, with some regions experiencing significantly higher increases than others. ")
 
 
 
